@@ -17,3 +17,9 @@ https://railway.com
 - Public Network
 
 ![image](https://github.com/user-attachments/assets/b0a7f132-2a73-44e0-933b-2d816dc3b297)
+
+# Vincular a psql
+- Raw psql command
+- Pegar en la SQL Shell (PSQL)
+
+⚠️ Instalar PostgreSQL: https://www.postgresql.org/download/windows/
