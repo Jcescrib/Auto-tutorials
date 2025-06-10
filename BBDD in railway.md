@@ -9,7 +9,7 @@ https://railway.com
 
 ![image](https://github.com/user-attachments/assets/a251c7fb-59ec-46e2-ac43-46c4940e61cd)
 
-# 3 Conectar la BBDD
+# 3. Conectar la BBDD
 
 ![image](https://github.com/user-attachments/assets/947b0c8f-980d-4e74-a228-038090b06bd4)
 - Data
@@ -18,8 +18,11 @@ https://railway.com
 
 ![image](https://github.com/user-attachments/assets/b0a7f132-2a73-44e0-933b-2d816dc3b297)
 
-# Vincular a psql
+# 4. Vincular a psql
 - Raw psql command
 - Pegar en la SQL Shell (PSQL)
 
 ⚠️ Instalar PostgreSQL: https://www.postgresql.org/download/windows/
+
+# 5.Generar archivo SQL de la primera tabla
+- 
