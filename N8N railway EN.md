@@ -3,7 +3,9 @@
 ## 1. Access Railway
 
 👉 [Railway access link with referral code](https://railway.com?referralCode=Bb28Og)  
+
 Referral code: `Bb28Og`  
+
 🔑 Recommended: log in using your GitHub account for easier integration.
 
 ---
